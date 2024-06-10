@@ -20,7 +20,7 @@ description: >-
 
 
 
-**Methods:** JAXA6 (GLDS-530) statistical reanalysis using GAGE gene set enrichment correlation analysis, Principal component pathways correlation analysis with DRUG bank chemical interaction library and changes to the vitamin and mineral absorption pathways using KEGG pathview. Linear model of flight vs post mission was used to calculate differential expression using DESeq2.
+**Methods:** JAXA6 (GLDS-530) statistical reanalysis using GAGE gene set enrichment correlation analysis, Principal component pathways correlation analysis with DRUG bank chemical interaction library and changes to the vitamin and mineral absorption pathways using KEGG pathview. Linear model of flight vs post mission was used to calculate differential expression using DESeq2 **(REF)**.
 
 **Results:** Evidence for increased need for K/Na+ and vitamins after spaceflight missions.
 
