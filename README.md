@@ -6,7 +6,7 @@ description: Banana and kale after flight.
 
 
 
-Link to Google doc: [https://docs.google.com/document/d/1cqUdNrvtrV2zV-ss1xA-aMm8KcvQ2z48dpZLUO0CO1o/edit?usp=sharing](https://docs.google.com/document/d/1cqUdNrvtrV2zV-ss1xA-aMm8KcvQ2z48dpZLUO0CO1o/edit?usp=sharing)
+[Link to edit disucussion notes. ](https://docs.google.com/document/d/1cqUdNrvtrV2zV-ss1xA-aMm8KcvQ2z48dpZLUO0CO1o/edit?usp=sharing)
 
 {% embed url="https://docs.google.com/document/d/1cqUdNrvtrV2zV-ss1xA-aMm8KcvQ2z48dpZLUO0CO1o/edit?usp=sharing" %}
 
