@@ -1,5 +1,8 @@
 # Genetically Enhanced Plants and Telomere Dynamics for Sustainable Lunar Diets
 
+**Project Lead: Dr** Borja Barbero \
+
+
 **Lunar AgriGen Mission:** Enhancing Astronaut Health with Radiation-Resistant Plants
 
 **Project Overview:** This project aims to tackle the significant challenge of ensuring sustainable food production for lunar missions. It focuses on the development of genetically modified plants to improve astronauts' diets and investigates the effects of lunar conditions on telomere dynamics. By merging disciplines such as molecular biology, plant genetics, space biology, and nutritional science, this project aims to make a pivotal contribution to the future success of lunar colonization efforts.

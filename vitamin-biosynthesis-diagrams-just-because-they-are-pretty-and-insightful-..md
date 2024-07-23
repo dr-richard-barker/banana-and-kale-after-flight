@@ -2,7 +2,7 @@
 
 
 
-aa
+**Future goals:** Expand our knowledge about vitemine biosynthesis and their role in health metabolism.&#x20;
 
 <figure><img src=".gitbook/assets/1.png" alt=""><figcaption><p>Biochemistry of vietmin biosynthesis.</p></figcaption></figure>
 
