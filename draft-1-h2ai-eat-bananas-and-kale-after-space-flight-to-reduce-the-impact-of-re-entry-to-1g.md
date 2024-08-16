@@ -147,13 +147,13 @@ KEGG pathway analysis has highlighted a significant upregulation in the pathways
 
 **Lactic acid processing in humans**
 
-In humans, lactic acid is produced by the muscles during intense physical activity, such as exercise. It is then transported to the liver, where it is converted into glucose or stored as glycogen. This process, known as glyconeogenesis, helps to maintain blood sugar levels and provide the body with a source of energy. Lactic acid can also be produced by the bacteria in the large intestine, where it is fermented to produce short-chain fatty acids. These fatty acids are then absorbed by the body and used as an energy source or stored for later use. Overall, lactic acid is produced and processed in different parts of the human body, depending on the specific circumstances and the needs of the body at the time.
+In humans, lactic acid is produced by the muscles during intense physical activity, such as exercise. It is then transported to the liver, where it is converted into glucose or stored as glycogen. This process, known as glyconeogenesis, helps to maintain blood sugar levels and provides the body with a source of energy. Lactic acid can also be produced by the bacteria in the large intestine, where it is fermented to produce short-chain fatty acids. These fatty acids are then absorbed by the body and used as an energy source or stored for later use. Overall, lactic acid is produced and processed in different parts of the human body, depending on the specific circumstances and the needs of the body at the time. In the spaceflight environment localised regions of acidosis and alkalosis lead to calcium stone formation in the kidneys.&#x20;
 
 
 
 **Symptoms associated with hypoxia and lactic acid accumulation**
 
-Hypoxia is a condition in which the body or a specific part of the body is deprived of adequate oxygen supply. Lactic acid is an organic acid that is produced by the body as a byproduct of cellular metabolism. There are several known symptoms associated with hypoxia and lactic acid accumulation, including shortness of breath, rapid breathing, and fatigue. In severe cases, hypoxia can cause confusion, dizziness, and loss of consciousness. Lactic acid accumulation can also cause symptoms such as muscle cramps and pain, as well as a feeling of weakness and fatigue. In severe cases, lactic acid accumulation can lead to a condition called lactic acidosis, in which the blood becomes excessively acidic. Lactic acidosis can cause symptoms such as rapid breathing, confusion, and coma. It is important to seek medical attention if you experience any of these symptoms, as they can be signs of serious long term effects.
+Hypoxia is a condition in which the body or a specific part of the body is deprived of adequate oxygen supply. Lactic acid is an organic acid that is produced by the body as a byproduct of cellular metabolism. There are several known symptoms associated with hypoxia and lactic acid accumulation, including shortness of breath, rapid breathing, and fatigue. In severe cases, hypoxia can cause confusion, dizziness, and loss of consciousness. Lactic acid accumulation can also cause symptoms such as muscle cramps and pain, as well as a feeling of weakness and fatigue. In severe cases, lactic acid accumulation can lead to a condition called lactic acidosis, in which the blood becomes excessively acidic. Lactic acidosis can cause symptoms such as rapid breathing, confusion, and coma. It is important to seek medical attention if you experience any of these symptoms, as they can be signs of serious long-term effects.
 
 
 
@@ -169,11 +169,11 @@ There are several known symptoms that are associated with astronauts going to sp
 
 **Conclusion**
 
-In summary, eating bananas and kale after high intensity sports or space flight can provide important nutrients, support healthy digestion and immune function, and reduce inflammation and oxidative stress in the body.
+In summary, eating bananas and kale after high-intensity sports or space flight can provide important nutrients, support healthy digestion and immune function, and reduce inflammation and oxidative stress in the body.
 
 
 
-**References**
+**References (in complete draft)**
 
 **Pathview reference**
 
